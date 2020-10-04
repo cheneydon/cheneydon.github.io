@@ -60,7 +60,7 @@ pre, tt {
 }
 
 a, a > tt {
-	color: #224b8d;
+	color: #0040FF;
 	text-decoration: none;
 }
 
@@ -122,7 +122,7 @@ strong {
 
 
 h1, h2, h3 {
-	color: #527bbd;
+	color: #333333;
 	margin-top: 0.7em;
 	margin-bottom: 0.3em;
 	padding-bottom: 0.2em;
@@ -150,6 +150,7 @@ h3 {
 }
 
 p {
+    color: #333333;
 	margin-top: 0.0em;
 	margin-bottom: 0.8em;
 	padding: 0;
