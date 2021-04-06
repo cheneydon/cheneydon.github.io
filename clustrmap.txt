@@ -1,1 +1,1 @@
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=YDyc0pL_GwI8Dq1g69ACFGxjEz87v7JowBYvo34AGBg'></script></body>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=YDyc0pL_GwI8Dq1g69ACFGxjEz87v7JowBYvo34AGBg'></script>
