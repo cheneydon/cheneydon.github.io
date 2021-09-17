@@ -27,7 +27,7 @@ _Chenhe Dong_, Yaliang Li, Ying Shen, and Minghui Qiu\n
 
 - *EfficientBERT: Progressively Searching Multilayer Perceptron via Warm-up Knowledge Distillation*\n
 _Chenhe Dong_, Guangrun Wang, Hang Xu, Jiefeng Peng, Xiaozhe Ren, and Xiaodan Liang\n
-/Findings of Empirical Methods in Natural Language Processing (EMNLP Findings), 2021/\n
+/Findings of Empirical Methods in Natural Language Processing (Findings of EMNLP), 2021/\n
 \[[https://arxiv.org/abs/2109.07222 Paper]\] \[[https://github.com/cheneydon/efficient-bert Code]\]\n
 
 - *Wasserstein Distance-Based Auto-Encoder Tracking*\n
