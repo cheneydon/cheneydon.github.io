@@ -6,7 +6,7 @@
 I am currently a master student at [http://www.sysu.edu.cn/ Sun Yat-sen University]. 
 Before that, I received my bachelor's degree from [http://www.neu.edu.cn/ Northeastern University] in 2020.\n\n
 
-My research interests include Natural Language Processing (NLP) and Natural Language Generation (NLG), with particular focus on Question Generation.\n\n
+My research interests include Natural Language Processing (NLP) and Natural Language Generation (NLG), with particular focus on Question Generation and Pre-trained Model Compression.\n\n
 
 Email: cheneychenhe98 (at) gmail.com\n
 \[[https://github.com/cheneydon Github] | [https://scholar.google.com/citations?user=iDp0iYkAAAAJ&hl=zh-CN&oi=ao Google Scholar]\]
@@ -23,7 +23,7 @@ Email: cheneychenhe98 (at) gmail.com\n
 - *HRKD: Hierarchical Relational Knowledge Distillation for Cross-domain Language Model Compression*\n
 _Chenhe Dong_, Yaliang Li, Ying Shen, and Minghui Qiu\n
 /Empirical Methods in Natural Language Processing (EMNLP), 2021/\n
-\[paper & code under construction\]\n
+\[[https://arxiv.org/abs/2110.08551 Paper]\] \[[https://github.com/cheneydon/hrkd Code]\]\n
 
 - *EfficientBERT: Progressively Searching Multilayer Perceptron via Warm-up Knowledge Distillation*\n
 _Chenhe Dong_, Guangrun Wang, Hang Xu, Jiefeng Peng, Xiaozhe Ren, and Xiaodan Liang\n
