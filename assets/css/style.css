@@ -100,7 +100,7 @@ small { font-size: 11px; }
 
 hr { border: 0; background: #e5e5e5; height: 1px; margin: 0 0 20px; }
 
-footer { width: 220px; float: left; position: fixed; bottom: 30px; -webkit-font-smoothing: subpixel-antialiased; text-align: center; }
+footer { width: 220px; float: left; position: fixed; bottom: 0px; -webkit-font-smoothing: subpixel-antialiased; text-align: center; }
 
 @media print, screen and (max-width: 1070px) { div.wrapper { width: auto; margin: 0; } header, section, footer { float: none; position: static; width: auto; } header { padding-right: 320px; } section { border: 1px solid #e5e5e5; border-width: 1px 0; padding: 20px 0; margin: 0 0 20px; } header a small { display: inline; } header ul { position: absolute; right: 50px; top: 52px; } .image.avatar img { border-radius: 100%; width: 150px; padding: 20px; } #head1o2 { visibility: hidden; } #head2o2 { visibility: hidden; } }
 
